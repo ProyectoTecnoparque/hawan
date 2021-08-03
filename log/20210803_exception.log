@@ -1,0 +1,6 @@
+*ERROR* 	2021/08/03 - 21:50:47: Link to database cannot be established:SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/03 - 21:50:49: Link to database cannot be established:SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/03 - 21:50:51: Link to database cannot be established:SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 102 in file classes/db/DbPDO.php
