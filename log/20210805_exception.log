@@ -1,0 +1,12 @@
+*ERROR* 	2021/08/05 - 16:21:22: Link to database cannot be established:SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:21:34: Link to database cannot be established:SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:21:59: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:22:11: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:23:40: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:25:08: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:25:08: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:28:02: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:28:06: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/08/05 - 16:28:26: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'qloapps' at line 102 in file classes/db/DbPDO.php

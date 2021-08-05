@@ -90,7 +90,7 @@ $_smarty_tpl->tpl_vars['roomDisplay']->_loop = true;
                                         </div>
                                         <div class="row margin-lr-0">
                                             <a target="blank" class="btn btn-default button htlRoomTypeBookNow" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getProductLink($_smarty_tpl->tpl_vars['roomDisplay']->value['id_product']), ENT_QUOTES, 'UTF-8', true);?>
-"><span><?php if (!isset($_smarty_tpl->tpl_vars['restricted_country_mode']->value)&&!$_smarty_tpl->tpl_vars['PS_CATALOG_MODE']->value) {?><?php echo smartyTranslate(array('s'=>'book now','mod'=>'wkhotelroom'),$_smarty_tpl);?>
+"><span><?php if (!isset($_smarty_tpl->tpl_vars['restricted_country_mode']->value)&&!$_smarty_tpl->tpl_vars['PS_CATALOG_MODE']->value) {?><?php echo smartyTranslate(array('s'=>'Ver Información','mod'=>'wkhotelroom'),$_smarty_tpl);?>
 <?php } else { ?><?php echo smartyTranslate(array('s'=>'View','mod'=>'wkhotelroom'),$_smarty_tpl);?>
 <?php }?></span></a>
                                         </div>
